@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <image src="https://www.reddit.com/r/gifs/comments/4iwzzy/happy_programmer/" width="100" />
+  <image src="[https://www.reddit.com/r/gifs/comments/4iwzzy/happy_programmer/](https://drive.google.com/file/d/11z07sellNo4dApIQc8kPQUDmk5tI2uZo/view?usp=sharing)" width="100" />
 </div>
 ### Hi there 👋
 
