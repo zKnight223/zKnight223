@@ -1,19 +1,17 @@
-<div id="header" align="center">
-  <image src="https://drive.google.com/file/d/11z07sellNo4dApIQc8kPQUDmk5tI2uZo/view?usp=sharing" width="100" />
-</div>
-### Hi there 👋
+<h1 align="center">👋 Hi, There</h1>
 
-<!--
-**zKnight223/zKnight223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+<h2 align="center">
+  I am a Senior Full Stack Dev
+</h2>
 
-Here are some ideas to get you started:
+😎 Love writing code and challenging issues
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ A quick learner, hardworking, committed team player, proactive self-starter, resourceful manager and capable of handling stressful conditions.
+
+👨‍🎓 Master of Science (Computer Science)
+
+--- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zKnight223)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zKnight223)
+---
