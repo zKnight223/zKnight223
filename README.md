@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <image src="https://www.reddit.com/r/gifs/comments/4iwzzy/happy_programmer/" width="100" />
+</div>
 ### Hi there 👋
 
 <!--
